@@ -48,7 +48,7 @@ function renderNav() {
 
 function renderHero() {
   const h = DATA.hero;
-  document.getElementById('hero-label').textContent = h.ariesLabel || 'ARIES';
+  document.getElementById('hero-label').textContent = h.ariesLabel || '𝚂𝚊𝚖𝚞𝚎𝚕~';
   document.getElementById('hero-name').textContent = h.name || '';
   document.getElementById('hero-profession').textContent = h.profession || '';
   document.getElementById('hero-desc').textContent = h.description || '';
