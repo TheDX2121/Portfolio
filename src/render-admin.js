@@ -170,7 +170,7 @@ function renderHeroPanel() {
     <div class="card">
       <div class="field-row">
         <div class="field"><label>Name</label><input value="${esc(h.name)}" oninput="DRAFT_hero('name',this.value)"></div>
-        <div class="field"><label>Samuel Label</label><input value="${esc(h.samuelLabel || '')}" oninput="DRAFT_hero('samuelLabel',this.value)"></div>
+        <div class="field"><label>SamuelLabel</label><input value="${esc(h.samuelLabel || '')}" oninput="DRAFT_hero('samuelLabel',this.value)"></div>
 
       </div>
       <div class="field"><label>Profession</label><input value="${esc(h.profession)}" oninput="DRAFT_hero('profession',this.value)"></div>
