@@ -12,12 +12,12 @@ export const uid = () => Math.random().toString(36).slice(2, 10);
 export function defaultData() {
   return {
     hero: {
-      name: 'ATHARVA KUMKAR', ariesLabel: 'ARIES', profession: 'VIDEO EDITOR & CREATIVE ARTIST',
+      name: 'VEBHAV', Label: '𝚂𝚊𝚖𝚞𝚎𝚕~', profession: 'CODER & VERSATILE',
       description: 'Crafting visual stories through editing, motion, rhythm and creative direction.',
       mediaType: 'none', mediaUrl: '', poster: '', autoplay: true, muted: true, loop: true, visible: true
     },
     info: {
-      text: 'Atharva Kumkar, professionally known as Aries, is a Video Editor & Creative Artist focused on cinematic editing, visual storytelling and creative content.',
+      text: 'Vebhav, professionally known as Aries, is a Video Editor & Creative Artist focused on cinematic editing, visual storytelling and creative content.',
       skills: ['Video Editing', 'Motion Graphics', 'Colour Grading', 'Sound Design', 'Creative Direction', 'Visual Storytelling'],
       photo: ''
     },
@@ -41,7 +41,7 @@ export function defaultData() {
     currentProject: { name: '', cover: '', video: '', description: '', status: 'IN PROGRESS', progress: 0, expectedLaunch: '', visible: false },
     social: [],
     email: '',
-    settings: { title: 'ARIES — Atharva Kumkar', favicon: '', animations: true, cursor: true, grain: true, loadingScreen: true },
+    settings: { title: '𝚂𝚊𝚖𝚞𝚎𝚕~ — Vebhav', favicon: '', animations: true, cursor: true, grain: true, loadingScreen: true },
     music: { enabled: false, url: '', volume: 0.5 },
     media: []
   };
