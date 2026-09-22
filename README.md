@@ -1,4 +1,4 @@
-# ARIES — Atharva Kumkar · Portfolio + Admin Panel
+# 𝚂𝚊𝚖𝚞𝚎𝚕~ — Vebhav · Portfolio + Admin Panel
 
 A cinematic, fully admin-controlled portfolio site for a video editor / creative artist.
 Built with **Vite** (so real `.env` files work and Vercel auto-detects everything —
