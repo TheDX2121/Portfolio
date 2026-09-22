@@ -32,7 +32,7 @@ The public site is at `/`. The admin panel is at `/#admin`.
 
 ## 1. Create a Firebase project (free — no card needed)
 
-1. https://console.firebase.google.com → **Add project** → name it (e.g. `aries-portfolio`) → finish setup.
+1. https://console.firebase.google.com → **Add project** → name it (e.g. `𝚂𝚊𝚖𝚞𝚎𝚕~-portfolio`) → finish setup.
 2. Left sidebar: **Build → Firestore Database** → **Create database** → **production mode** → pick a nearby region.
 3. **Build → Authentication** → **Get started** → enable the **Email/Password** provider.
 4. **Build → Authentication → Users** tab → **Add user** → your own email + a strong password. This is your one admin login — no public sign-up form, by design.
