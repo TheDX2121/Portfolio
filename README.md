@@ -8,7 +8,7 @@ no manual "Root Directory" configuration needed), using:
 - **Cloudinary** — free, for photo/video hosting
 
 ```
-aries-portfolio/
+𝚂𝚊𝚖𝚞𝚎𝚕~-portfolio/
 ├── index.html                  ← Vite entry point (public + admin, one page, hash-routed)
 ├── package.json
 ├── vite.config.js
